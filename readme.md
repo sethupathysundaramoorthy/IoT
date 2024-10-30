@@ -18,8 +18,7 @@ This project utilizes the **DHT11** temperature and humidity sensor with an **ES
 - **DHT11 VCC** to **ESP8266 3.3V**
 - **DHT11 GND** to **ESP8266 GND**
 - **DHT11 Data Pin** to **ESP8266 Digital Pin D2 (GPIO 4)**
-
+OUTPUT 
 ![Circuit Diagram](https://drive.google.com/uc?export=view&id=1B0mcwPeHy0Jnso0MPY1ZM6FhwxAm2bWk)
 
-## Additional Resources
 - ![Setup Guide](https://drive.google.com/uc?export=view&id=1n_kW6k-dTdQzvbn-kRnfTdcy9MTxvt3d)
